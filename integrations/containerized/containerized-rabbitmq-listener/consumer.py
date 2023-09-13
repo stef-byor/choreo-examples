@@ -35,7 +35,7 @@ def main():
         # starting the consumer session
         channel.start_consuming()
     else:
-        print("One or many environment variables was/were not set.")
+        print("One or many environment variables was/were not set. TestDT2")
 
 if __name__ == '__main__':
     main()
